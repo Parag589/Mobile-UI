@@ -2,6 +2,6 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
   </a>, I'm Parag Agarwal</h1>
   <br>
-  <h2>SmapShot of Mobile UI <a target="_blank" rel="noopener noreferrer">
+  <h2 style="margin-bottom: 10;">SnapShot of Mobile UI></h2>
     <br>
-<img marginbottom=20 src="https://github.com/Parag589/Mobile-UI/blob/main/Assignment%20Done%20by%20Parag%20Agarwal.png" />
+<img src="https://github.com/Parag589/Mobile-UI/blob/main/Assignment%20Done%20by%20Parag%20Agarwal.png" />
